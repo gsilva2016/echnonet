@@ -5,7 +5,7 @@ This project demonstrates OpenVINO optimized EchoNet-Dynamic. EchoNet-Dynamic is
 ## Create and activate isolated Python environment
 
 ```
-git clone https://github.com/gsilva2016/echnonet.git
+git clone https://github.com/gsilva2016/echonet.git
 cd echonet
 ```
 
